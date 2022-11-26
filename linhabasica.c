@@ -1,4 +1,4 @@
-//Elaborado por jonathas santos RA:202210434
+//Elaborado por jonathas santos RA:202210434 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -125,3 +125,5 @@ int main()
     
     return 0;
 }
+
+//Elaborado por jonathas santos RA:202210434 
